@@ -84,7 +84,6 @@ class iWorks_Parse_GIT_Readme {
 			$classes[] = 'git-readme';
 		}
 		return $classes;
-
 	}
 }
 
